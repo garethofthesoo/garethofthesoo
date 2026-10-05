@@ -11,7 +11,7 @@ class Abdelsalam:
         self.role = 'Network Administrator'
         self.passion = ['Network Security', 'Network Operations', 'Network Automation']
         self.goal = 'Enhancing InterPlanetary Networks'
-        self.github_url = 'https://github.com/abdelsalamalp/'
+        self.github_url = 'https://github.com/garethofthesoo/'
 
     def say_hello(self):
         print(f'I am {self.alias}. I build what must endure, by the will of Allah.\n'
